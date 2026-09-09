@@ -5,6 +5,7 @@
 🎓 **Engineering Student | Web Developer | DSA Learner | AI Enthusiast**
 
 I'm an engineering student with a strong interest in **Web Development, Data Structures & Algorithms, and Artificial Intelligence**. I enjoy building projects, solving programming problems, and exploring new technologies.
+<hr/>
 
 ### 🚀 About Me
 
@@ -15,6 +16,8 @@ I'm an engineering student with a strong interest in **Web Development, Data Str
 * 🌱 Always learning and exploring new technologies.
 * 🎯 Aspiring to become a **well-rounded Software Engineer**.
 
+  <hr/>
+
 ### 🛠️ Areas of Interest
 
 * 🌐 Web Development
@@ -24,13 +27,7 @@ I'm an engineering student with a strong interest in **Web Development, Data Str
 * 🤖 AI Tools & Technologies
 * 🚀 Deployment & DevOps Fundamentals
 
-### 📂 What You'll Find Here
-
-You'll find my **web development projects, DSA solutions, learning experiments, and personal projects** as I continue growing as a developer.
-
-> **Learn. Build. Solve. Repeat. 🚀**
-
-Thanks for visiting my profile! 😊
+<hr/>
 
 
 # 💻 Tech Stack:
