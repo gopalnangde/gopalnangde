@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi there, I'm Gopal 👋
+
+# Hi 👋, I'm Gopal Nangde
 
 🎓 **Engineering Student | Web Developer | DSA Learner | AI Enthusiast**
 
@@ -8,10 +8,10 @@ I'm an engineering student with a strong interest in **Web Development, Data Str
 
 ### 🚀 About Me
 
-* 🌐 Have prior knowledge and experience in **Web Development** and enjoy building web-based projects.
-* 🧠 Currently learning and improving my **Data Structures & Algorithms (DSA)** skills through problem solving and LeetCode.
-* 🤖 Familiar with **AI tools and modern AI technologies**, and interested in learning how AI can be used to build smarter applications.
-* 💻 Continuously improving my programming and development skills through hands-on projects.
+* 🌐 Interested in **Web Development** and building real-world projects.
+* 🧠 Improving **DSA** through LeetCode and problem solving.
+* 🤖 Exploring **AI tools and technologies**.
+* 💻 Building projects and improving my development skills.
 * 🌱 Always curious to learn new technologies and understand how things work.
 * 🎯 Working towards becoming a **well-rounded software engineer** with strong development and problem-solving skills.
 
