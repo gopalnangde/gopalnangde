@@ -12,8 +12,8 @@ I'm an engineering student with a strong interest in **Web Development, Data Str
 * 🧠 Improving **DSA** through LeetCode and problem solving.
 * 🤖 Exploring **AI tools and technologies**.
 * 💻 Building projects and improving my development skills.
-* 🌱 Always curious to learn new technologies and understand how things work.
-* 🎯 Working towards becoming a **well-rounded software engineer** with strong development and problem-solving skills.
+* 🌱 Always learning and exploring new technologies.
+* 🎯 Aspiring to become a **well-rounded Software Engineer**.
 
 ### 🛠️ Areas of Interest
 
